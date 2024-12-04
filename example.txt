@@ -1,1 +1,3 @@
-Example File
+Example Filegit 
+
+Add new line for diff command
