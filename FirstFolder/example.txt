@@ -3,3 +3,5 @@ Example Filegit
 Add new line for diff command
 
 diff additonal comment
+
+extra content
